@@ -1,0 +1,84 @@
+/* dator_style.css for style in data_order.html and list_order.html*/
+
+/* Navbar setting */
+nav.navbar-expand-lg{
+    position: sticky;
+    top: 0;
+	z-index: 1;
+}
+
+
+/* background */
+
+.main-bg {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/644/305/118/pattern-black-gradient-texture-wallpaper-1be65c2d03e1bf994574abb9dd4c6c70.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 800px;
+  background-attachment: fixed;
+}
+
+[data-bs-theme="dark"] {
+    color-scheme: dark;
+}
+
+/* Welcome Text */
+
+h1.welcome-text {
+    text-align: center;
+    color: white;
+}
+
+p.main-order {
+    color: black;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+	margin-top: 20px;
+	padding: 10px 15px 10px 15px;
+}
+
+tbody {
+    color: white;
+}
+
+button.btn-warning {
+    position: relative;
+    right: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 98, 0);
+    border: none;
+}
+
+button.btn-warnin:hover {
+    position: relative;
+    right: 10px;
+    font-weight: bold;
+}
+
+th{
+    text-align: center;
+}
+
+th.thistory {
+    text-align: left;
+}
+
+a.access-status {
+    color: white;
+    position: relative;
+    right: 20px;
+    top: 3px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a.text-light {
+    text-decoration: none;
+}
+
+p.teknisi_note {
+    color: white;
+    font-weight: bold;
+}

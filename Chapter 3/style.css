@@ -1,0 +1,106 @@
+/* Navbar setting */
+nav.navbar-expand-lg{
+    position: sticky;
+    top: 0;
+	z-index: 1;
+    background-color: transparent;
+}
+
+/* background */
+
+.main-bg {
+  background-image: url(https://wallpaper.dog/large/20420792.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 800px;
+  background-attachment: fixed;
+}
+
+[data-bs-theme="dark"] {
+    color-scheme: dark;
+}
+
+/* Welcome Text */
+
+h1.welcome-text {
+    text-align: center;
+    color: white;
+}
+
+/* Style untuk tombol order pada index.html */
+
+a.main-order {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    border-radius: 10px;
+	margin-top: 10px;
+	padding: 10px 15px 10px 15px;
+}
+
+a.main-order:hover {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(255, 136, 0);
+    border-radius: 10px;
+	margin-top: 10px;
+	padding: 10px 15px 10px 15px;
+}
+
+tbody {
+    color: white;
+}
+
+/* Style untuk tombol login */
+
+a.login {
+    position: relative;
+    right: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 98, 0);
+    border: none;
+}
+
+a.login:hover {
+    position: relative;
+    right: 10px;
+    color: black;
+    background-color: rgb(255, 204, 0);
+}
+
+/* Style untuk tombol logout */
+
+button.btn-warning {
+    position: relative;
+    right: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 98, 0);
+    border: none;
+}
+
+button.btn-warnin:hover {
+    position: relative;
+    right: 10px;
+    font-weight: bold;
+}
+
+/* Style untuk status akses */
+
+a.access-status {
+    color: white;
+    position: relative;
+    right: 20px;
+    top: 3px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a.text-light {
+    text-decoration: none;
+}
+
