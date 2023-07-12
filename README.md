@@ -1,6 +1,8 @@
 # Proyek_1
 Sistem Informasi Sewa Jasa Teknisi Berbasis Website Menggunakan Golang dan Framework GoFiber.
+
 ![cover](https://github.com/hrisz/Proyek_1/assets/60280111/57eb9bbf-1a08-459d-802b-279fda1e66a7)
+
 Tutorial pengembangan sistem informasi sewa jasa teknisi adalah buku yang dirancang khusus untuk individu yang tertarik untuk mempelajari cara membuat dan mengelola
 sebuah sistem informasi sewa jasa teknisi. Di era digital yang semakin berkembang ini, penting bagi pemilik bisnis untuk hadir di platform online untuk menjangkau lebih
 banyak pelanggan dan memperluas jangkauan mereka. Buku ini memberikan petunjuk langkah demi langkah yang jelas dan mudah dipahami untuk membantu pemula
